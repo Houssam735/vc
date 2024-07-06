@@ -44,7 +44,7 @@ const checkAndJoin = async (client, channelId) => {
 
         adapterCreator: guild.voiceAdapterCreator,
 
-        selfMute: false,
+        selfMute: true,
 
         selfDeaf: false,
 
