@@ -4,7 +4,7 @@ const { Client } = require('discord.js-selfbot-v13');
 
 const { joinVoiceChannel } = require('@discordjs/voice');
 
-const channels = ['1267505476690645032'];
+const channels = ['1269049389595361301'];
 
 const checkAndJoin = async (client, channelId) => {
 
